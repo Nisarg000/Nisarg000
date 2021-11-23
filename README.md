@@ -10,4 +10,4 @@
   Feel free to look at my projects as I also have created arduino projects[hardware](Though to be honest my friends did nearly all the hardware parts and I mostly did all the coding).
   
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... You can contact me using my email id : nisargjhatakia94@gmail.com, or message me on linkedin at www.linkedin.com/in/nisarg-jhatakia-a384ba1b0
+- 📫 How to reach me ... You can contact me using my email id : nisargjhatakia94@gmail.com, or message me on linkedin at www.linkedin.com/in/NisargJhatakia
