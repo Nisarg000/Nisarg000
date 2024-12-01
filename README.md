@@ -1,7 +1,3 @@
-Here’s a refined and professional version of your GitHub `README.md` file that aligns with your current experience and expertise:
-
----
-
 # 👋 Hi, I’m Nisarg Jhatakia (aka @Nisarg000)
 
 Welcome to my GitHub profile! I'm a **cybersecurity enthusiast**, a **former full-stack developer**, and an **ISC2 Certified in Cybersecurity (CC)** professional with a passion for **ethical hacking**, **open-source intelligence (OSINT)**, and **cloud security**.
